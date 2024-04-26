@@ -1,5 +1,5 @@
 name: finalbatstest
-run-name: $({github.actor}) is learning Github actions
+run-name: ${{ github.actor }} is learning GitHub Actions
 on: 
   push:
     branches: ["main"]
