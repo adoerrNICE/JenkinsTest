@@ -7,7 +7,7 @@ pipeline {
         stage('Test') {
             steps {
                 sh 'node --version'
-                sh 'addding a random test.sfhjalk;s k;lejw a;foifhswdr'
+                sh 'addding a randomk;s k;lejw a;foifhswdr'
             }
         }
     }
